@@ -1,0 +1,56 @@
+body{
+    background-image: url(../image/scott-graham-OQMZwNd3ThU-unsplash.jpg);
+    background-size: cover;
+}
+.container{
+    margin-top: 180px;
+    max-width: 600px;
+    /* width: 600px; */
+    height: 600px;
+    background-color: rgba(126, 197, 197, 0.791);
+    border-radius: 31px;
+    
+}
+h1{
+    text-align: center;
+}
+.parent{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.fullname{
+    padding-left: 16px;
+    padding-top: 10px;
+    padding: auto;
+}
+#last{
+    padding-left: 231px;
+    
+}
+.name{
+    padding-top: 5px;
+    padding-left:6px ;
+    /* margin-left: 35px; */
+}
+input{
+    height: 37px;
+    border-radius: 10px;
+   
+    
+}
+#button{
+    height: 40px;
+    width: 250px;
+    margin-top: 33px;
+    margin-left: 185px;
+    background-color: rgb(72, 123, 106);
+    color: white;
+    font-size: medium;
+}
+.link{
+    padding-top: 15px;
+    padding-left:193px ;
+}

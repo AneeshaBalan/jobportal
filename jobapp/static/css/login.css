@@ -1,0 +1,58 @@
+body{
+    background-image: url(../image/scott-graham-OQMZwNd3ThU-unsplash.jpg);
+    background-size: cover;
+}
+.container{
+    width: 800px;
+    height: 500px;
+    background-color: aliceblue;
+    margin-top: 186px;
+    
+}
+.parent{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.p1{
+    width: 340px;
+    height: 400px;
+    /* border: black solid 3px; */
+    /* margin-top: 50px; */
+    margin-left: 50px;
+    padding: auto;
+}
+.blank{
+    height: 50px;
+}
+.p2{
+    width: 350px;
+    height: 400px;
+    /* border: black solid 3px;  */
+    margin-left:400px ;
+    margin-top: -420px;
+    background-image: url(../image/scott-graham-OQMZwNd3ThU-unsplash.jpg);
+    background-size: cover;
+}
+.username{
+    padding-top: 22px;
+}
+.Button{
+    padding-top: 22px;
+    width: 350px;
+}
+input{
+    height: 38px;
+    border-radius: 3px;
+}
+#button{
+    height: 40px;
+    width: 150px;
+    margin-top: 5px;
+    /* margin-left: 185px; */
+    background-color: rgb(99, 184, 185);
+    color: white;
+    font-size: medium;
+}
